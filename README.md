@@ -21,8 +21,10 @@ When I’m not coding, I’m in the director’s chair for live church productio
 ### Featured Projects
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Volunteer Scheduler](LINK_TO_REPO)** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Uses Google OR-Tools to intelligently assign volunteers to camera positions based on skill and availability. |
-| **[Pixera Countdowns](LINK_TO_REPO)** | ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | A real-time dashboard for production crews to track critical show cues like solos and transitions via REST API. |
+| **[Volunteer Scheduler](https://github.com/locobiker/VolunteerScheduling)** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Uses Google OR-Tools to intelligently assign volunteers to camera positions based on skill and availability. |
+| **[Pixera Countdowns](https://github.com/locobiker/Pixera_Countdowns)** | ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | A real-time dashboard for production crews to track critical show cues like solos and transitions via REST API. |
+| **[PCO Volunteer View](https://github.com/locobiker/PCO_VolunteerView)** | ![Liquid](https://img.shields.io/badge/liquid-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=white) | Planning Center report to view volunteer order and positions for streamlined service coordination. |
+| **[CS Tally Arbiter](https://github.com/locobiker/CS_TallyArbiter)** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | Built on Joseph Adams' Tally Arbiter to send tally data to remote M5 Sticks for live camera switching. |
 
 ---
 
@@ -30,8 +32,12 @@ When I’m not coding, I’m in the director’s chair for live church productio
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Liquid](https://img.shields.io/badge/liquid-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
 
 ---
